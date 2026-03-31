@@ -31,7 +31,7 @@
 ## 项目结构
 
 ```
-image-to-webp-v2/
+image-to-webp/
 ├── frontend/          # 前端项目
 │   ├── src/           # 源代码
 │   │   ├── components/   # 组件
@@ -52,8 +52,8 @@ image-to-webp-v2/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/image-to-webp-v2.git
-cd image-to-webp-v2
+git clone https://github.com/firefly2099/image-to-webp.git
+cd image-to-webp
 ```
 
 ### 2. 安装后端依赖
